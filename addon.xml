@@ -1,27 +1,43 @@
 <?xml version="3.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.Horizonhd" name="[COLOR orange][B]Horizonhd[/B][/COLOR]" version="3.0.0+matrix" provider-name="[COLOR orange][B]FM Horizonhd[/B][/COLOR]">  
+<addon id="plugin.video.Horizonhd.X" name="[COLOR orange][B]Horizonhd X[/B][/COLOR]" version="3.0.0+matrix" provider-name="[COLOR blue][B]Repo UNION KODI BR[/B][/COLOR]"> 
 <requires>
-    <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.requests"/>
-    <import addon="script.module.simplejson"/>
-	<import addon="script.module.kodi-six" />
-</requires>  
-<extension point="xbmc.python.pluginsource" library="default.py">
+	<import addon="xbmc.python" version="3.0.0"/>
+	<import addon="script.module.simplejson"/>
+	<import addon="script.module.requests"/>
+	<import addon="script.module.six" />
+    <import addon="script.module.kodi-six" />
+	<import addon="script.module.beautifulsoup4"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
 	<provides>video</provides>
-</extension>   
+</extension>
+<extension point="xbmc.addon.repository" name="[COLOR orange][B]Horizonhd X[/B][/COLOR]">
+	<info compressed="false">https://github.com/OnePlayHD/OneRepo/raw/master/matrix/addons.xml</info>
+	<checksum>https://github.com/OnePlayHD/OneRepo/raw/master/matrix/addons.xml.md5</checksum>
+	<datadir zip="true">https://github.com/OnePlayHD/OneRepo/raw/master/matrix</datadir>
+	<hashes>false</hashes>
+</extension>
 <extension point="xbmc.addon.metadata">
-	 <summary lang="en">[B][COLOR orange]Horizonhd[/COLOR][/B][B][COLOR white] [/COLOR][/B].</summary>
-    <description lang="en">Horizonhd é um addon torrent</description>
-    <disclaimer lang="en"></disclaimer>
-	<platform>all</platform>
+    <summary lang="pt_br">Horizonhd X para sua Familia.</summary>
+    <description lang="pt_br">Horizonhd X é uma addon que traz conteúdo online sem uso de torrent.</description>
+    <disclaimer lang="pt_br">Horizonhd X não hospeda os conteudos, todos os filmes e series são links agregados ao addon.</disclaimer>
+	<website>http://www.oneplayhd.com/</website>
+    <platform>all</platform>
+	<source>https://github.com/OnePlayHD/OneRepo/tree/master/matrix/plugin.video.OneX.Matrix</source>
 	<assets>
-       <icon>icon.png</icon>
-       <fanart>fanart.jpg</fanart>
-<screenshot>resources/screenshots/home.png</screenshot>
-<screenshot>resources/screenshots/movies.png</screenshot>
-<screenshot>resources/screenshots/series.png</screenshot>
-</assets>
-	<news>news
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+		<screenshot>resources/media/screenshot01.jpg</screenshot>
+		<screenshot>resources/media/screenshot02.jpg</screenshot>
+		<screenshot>resources/media/screenshot03.jpg</screenshot>
+    </assets>
+	<news>
+v1.0.0
+- Inauguração do Horizonhd X em Python 3
+v1.0.1
+- Inclusão de modulo downloader
+v1.0.2
+- correção
 	</news>
 </extension>
 </addon>
