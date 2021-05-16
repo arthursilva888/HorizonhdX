@@ -12,9 +12,9 @@
 	<provides>video</provides>
 </extension>
 <extension point="xbmc.addon.repository" name="[COLOR orange][B]Horizonhd X[/B][/COLOR]">
-	<info compressed="false">https://github.com/OnePlayHD/OneRepo/raw/master/matrix/addons.xml</info>
-	<checksum>https://github.com/OnePlayHD/OneRepo/raw/master/matrix/addons.xml.md5</checksum>
-	<datadir zip="true">https://github.com/OnePlayHD/OneRepo/raw/master/matrix</datadir>
+	<info compressed="false">https://github.com/arthursilva888/HorizonhdX/main/addon.xml</info>
+	<checksum>https://github.com/arthursilva888/HorizonhdX/main/addon.xml.md5</checksum>
+	<datadir zip="true">https://github.com/arthursilva888/HorizonhdX/main/addon</datadir>
 	<hashes>false</hashes>
 </extension>
 <extension point="xbmc.addon.metadata">
@@ -23,7 +23,7 @@
     <disclaimer lang="pt_br">Horizonhd X não hospeda os conteudos, todos os filmes e series são links agregados ao addon.</disclaimer>
 	<website>http://www.oneplayhd.com/</website>
     <platform>all</platform>
-	<source>https://github.com/OnePlayHD/OneRepo/tree/master/matrix/plugin.video.OneX.Matrix</source>
+	<source>https://github.com/arthursilva888/HorizonhdX/main/addon/plugin.video.Horizonhd.X</source>
 	<assets>
 		<icon>icon.png</icon>
 		<fanart>fanart.jpg</fanart>
