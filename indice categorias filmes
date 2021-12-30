@@ -21,11 +21,11 @@
 
 
 </channels><channel>
-<name>[COLOR firebrick][B][I]✹[/I][COLOR orange][I]✹[/I][COLOR white] Apple TV [COLOR blue] +[COLOR orange][I]✹[/I][B][/COLOR][/B]</name>
+<name>[COLOR firebrick][B][I]✹[/I][COLOR orange][I]✹[/I][COLOR white][I] Apple TV [/I][COLOR blue] +[COLOR orange][I]✹[/I][B][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/LKeT3uJ.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/FILMES%20Apple%20TV%2B</externallink>
 <fanart>https://i.imgur.com/Kd7n4KX.jpg</fanart>
-<info>[COLOR white][B][I] [COLOR white][B] Apple TV[COLOR blue]+ [/I][COLOR blueviolet][I] os melhores filmes estão a aqui [/I][B][/COLOR][/B]</info>
+<info>[COLOR white][B][I] [COLOR white][B] Apple TV[COLOR blue]+ [/I][COLOR white][I] os melhores filmes estão a aqui [/I][B][/COLOR][/B]</info>
 </channel>
 
 </channels><channel>
@@ -46,11 +46,11 @@
 </channel>
 
 </channels><channel>
-<name>[COLOR firebrick][B][I]✹[/I][COLOR orange][I]✹[/I][COLOR navyblue][I] HBO Max [/I][COLOR orange][I]✹[/I][/B][/COLOR]</name>
+<name>[COLOR firebrick][B][I]✹[/I][COLOR orange][I]✹[/I][COLOR dimgrey][I] HBO Max [/I][COLOR orange][I]✹[/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/H4w2vXg.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/HBO%20Max</externallink>
 <fanart>https://i.imgur.com/D6EUdKL.jpg</fanart>
-<info>[COLOR orange][B][I] ♦ > > > [/I][COLOR navyblue][B] HBO Max [COLOR orange][I] < < < ♦ [/I][COLOR blue][I] Filmes e Série estão a aqui  [/I][/B][/COLOR]</info>
+<info>[COLOR orange][B][I] ♦ > > > [/I][COLOR dimgrey] HBO Max [COLOR orange][I] < < < ♦ [/I][COLOR blue][I] Filmes e Série estão a aqui  [/I][/B][/COLOR]</info>
 </channel>
 
 <channels>
