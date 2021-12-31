@@ -60,7 +60,7 @@
 <channel>
 <name>[COLOR lime][B]●[COLOR orange][I] COLEÇÃO [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/TFca4Ul.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/arthursilva888/HorizonhdX/main/FILMES%20Cole%C3%A7ao</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
 <info>
 </channel>
