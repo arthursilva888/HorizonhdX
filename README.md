@@ -34,7 +34,7 @@
 <channel>
 <name>[COLOR lime][B]●[COLOR orange][I] SERIES [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/JP2daxM.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/arthursilva888/HorizonhdX/main/categorias%20series</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
 <info></info>
 </channel>
