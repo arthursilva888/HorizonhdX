@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR firebrick][B]●[COLOR orange][I] FILMES [/I][/B][/COLOR]</name>
+<name>[COLOR lightgreen][B]●[COLOR orange][I] FILMES [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/zsEpe5C.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/arthursilva888/HorizonhdX/main/indice%20categorias%20filmes</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
@@ -24,7 +24,7 @@
 
 <channels
 <channel>
-<name>[COLOR lime][B]●[COLOR orange][I] KIDS [/I][/B][/COLOR]</name>
+<name>[COLOR aquamarine][B]●[COLOR orange][I] KIDS [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/oNJ3etP.jpg</thumbnail>
 <externallink></externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
@@ -74,21 +74,3 @@
 <info>[COLOR blueviolet][B] OS MELHORES ANIMES ESTÃO AQUI, [/B][/COLOR]</info>
 </channel>
  
- <channels>
-<channel>
-<name>[COLOR lime][B]●[COLOR orange][I] YOUTUBE [/I][/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/FHRsAcD.jpg</thumbnail>
-<externallink></externallink>
-<fanart>https://i.imgur.com/urXmGts.jpg</fanart>
-<info>[COLOR blueviolet][B] OS MELHORES DO YOUTUBE ESTÃO AQUI, [/B][/COLOR]</info>
-</channel>
- 
-<channels>
-<channel>
-<name>[COLOR lime][B]●[COLOR orange][I] CANAL RICOS [/I][/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/S6kjSfi.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/CANAL%20RICOS</externallink>
-<fanart>https://2.bp.blogspot.com/-55t23DaE4uk/XLNpPZ6w9BI/AAAAAAAAyr8/cgrWrH7VAb4qGK0rWUbtdR6tPguZLMy7gCLcBGAs/s320/WhatsApp%2BImage%2B2019-04-13%2Bat%2B22.12.43.jpeg</fanart>
-<info>PARTICIPE VIA FACEBOOK CANAL RICOS WEB<info>
-<info>
-</channel>
