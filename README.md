@@ -69,7 +69,7 @@
 <channel>
 <name>[COLOR lime][B]●[COLOR orange][I] ANIMES [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/EERTTH5.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/arthursilva888/HorizonhdX/main/Categorias%20Animation</externallink>
 <fanart>https://nya-ani.me/wp-content/uploads/2017/12/One-Piece-East-Blue.jpg</fanart>
 <info>[COLOR blueviolet][B] OS MELHORES ANIMES ESTÃO AQUI, [/B][/COLOR]</info>
 </channel>
