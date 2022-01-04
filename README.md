@@ -26,7 +26,7 @@
 <channel>
 <name>[COLOR lime][B]●[COLOR orange][I] KIDS [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/oNJ3etP.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/arthursilva888/HorizonhdX/main/KIDS</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
 </channel>
 
