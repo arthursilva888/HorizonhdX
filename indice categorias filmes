@@ -107,7 +107,7 @@
 </channel>
 
 </channels><channel>
-<name>[COLOR firebrick][B]●[COLOR blue][I] Prime [/I][COLOR white][I] Video [/I][COLOR orange][I]✹[/I][/B][/COLOR]</name>
+<name>[COLOR firebrick][B]●[COLOR blue][I] Prime [/I][COLOR white][I] Video [/I][COLOR orange][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/Ywrguti.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/arthursilva888/HorizonhdX/main/FILMES%20Prime%20Video</externallink>
 <fanart>https://i.imgur.com/Ft3oL6d.jpg</fanart>
@@ -175,7 +175,7 @@
 <channels>
 
 </channels><channel>
-<name>[COLOR firebrick][B]●[COLOR orange][COLOR blue][I] ANIMATION [/I][COLOR orange][[/B][/COLOR]</name>
+<name>[COLOR firebrick][B]●[COLOR orange][COLOR blue][I] ANIMATION [/I][COLOR orange][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/OSQGreW.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/arthursilva888/HorizonhdX/main/ANIMES</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
